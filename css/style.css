@@ -13,7 +13,7 @@ body {
 }
 
 footer {
-  background-color: darkgray;
+  background-color: rgba(169, 169, 169, 0.24);
   font-style: italic;
   font-family: 'Alkalami', serif;
   grid-area: pie;
@@ -23,7 +23,7 @@ footer a i{
   font-size: 2rem;
 }
 
-.remarcado {
+h2 {
   background-color: hotpink;
 }
 
