@@ -18,6 +18,9 @@ footer {
   font-family: 'Alkalami', serif;
   grid-area: pie;
 }
+ul li {
+  text-decoration: none;
+}
 
 footer a i{
   font-size: 2rem;
